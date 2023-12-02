@@ -1,2 +1,2 @@
 # exam-asignment
-Exam asignment starting from E
+Exam asignment currently E, D, C.
