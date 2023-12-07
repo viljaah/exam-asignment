@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(244, 211, 245);
+}
+
+h1, .first {
+    text-align: center;
+    color: rgb(96, 185, 96);
+}
+
+.all {
+    max-width: 520px;
+    padding: 15px;
+    border: 4px solid rgb(96, 185, 96);
+    margin: 0 auto;
+}
+
+a {
+    color: rgb(243, 148, 5);
+}
+
+

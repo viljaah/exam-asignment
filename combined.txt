@@ -1,0 +1,467 @@
+https://en.wikipedia.org/wiki/Oslo	Oslo	59.913333	10.738889	702,543
+https://en.wikipedia.org/wiki/Eigersund	Eigersund	58.478333	6.063056	14,860
+https://en.wikipedia.org/wiki/Stavanger	Stavanger	58.970000	5.731389	144,515
+https://en.wikipedia.org/wiki/Haugesund	Haugesund	59.446389	5.298333	37,444
+https://en.wikipedia.org/wiki/Sandnes	Sandnes	58.851667	5.736111	81,305
+https://en.wikipedia.org/wiki/Sokndal	Sokndal	58.365000	6.310278	3,281
+https://en.wikipedia.org/wiki/Lund,_Norway	Lund	58.519722	6.461389	3,178
+https://en.wikipedia.org/wiki/Bjerkreim	Bjerkreim	58.656944	6.146667	2,789
+https://en.wikipedia.org/wiki/H%C3%A5	Hå	58.606389	5.724722	19,296
+https://en.wikipedia.org/wiki/Klepp	Klepp	58.777222	5.596667	20,163
+https://en.wikipedia.org/wiki/Time,_Norway	Time	58.722778	5.765278	19,353
+https://en.wikipedia.org/wiki/Gjesdal	Gjesdal	58.781944	6.008611	12,131
+https://en.wikipedia.org/wiki/Sola,_Norway	Sola	58.880000	5.628611	27,568
+https://en.wikipedia.org/wiki/Randaberg	Randaberg	59.001667	5.615278	11,454
+https://en.wikipedia.org/wiki/Strand,_Norway	Strand	59.063333	6.027778	13,268
+https://en.wikipedia.org/wiki/Hjelmeland	Hjelmeland	59.217222	6.340833	2,534
+https://en.wikipedia.org/wiki/Suldal	Suldal	59.468333	6.499722	3,784
+https://en.wikipedia.org/wiki/Sauda	Sauda	59.687500	6.437222	4,525
+https://en.wikipedia.org/wiki/Kvits%C3%B8y	Kvitsøy	59.062222	5.411667	523
+https://en.wikipedia.org/wiki/Bokn	Bokn	59.200278	5.423056	855
+https://en.wikipedia.org/wiki/Tysv%C3%A6r	Tysvær	59.361667	5.542778	11,283
+https://en.wikipedia.org/wiki/Karm%C3%B8y	Karmøy	59.256389	5.249167	42,541
+https://en.wikipedia.org/wiki/Utsira	Utsira	59.307222	4.886111	188
+https://en.wikipedia.org/wiki/Vindafjord	Vindafjord	59.545556	5.818056	8,775
+https://en.wikipedia.org/wiki/Kristiansund	Kristiansund	63.110278	7.727778	24,442
+https://en.wikipedia.org/wiki/Molde	Molde	62.756389	7.238611	26,822
+https://en.wikipedia.org/wiki/%C3%85lesund	Ålesund	62.477778	6.190278	66,258
+https://en.wikipedia.org/wiki/Vanylven	Vanylven	62.060556	5.697500	3,203
+https://en.wikipedia.org/wiki/Sande,_M%C3%B8re_og_Romsdal	Sande	62.258333	5.431389	2,540
+https://en.wikipedia.org/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal	Herøy	62.355556	5.544444	8,957
+https://en.wikipedia.org/wiki/Ulstein	Ulstein	62.356389	5.853889	8,457
+https://en.wikipedia.org/wiki/Hareid	Hareid	62.364167	6.001389	5,185
+https://en.wikipedia.org/wiki/%C3%98rsta	Ørsta	62.200278	6.132222	10,744
+https://en.wikipedia.org/wiki/Stranda	Stranda	62.191389	6.948889	4,623
+https://en.wikipedia.org/wiki/Sykkylven	Sykkylven	62.375556	6.644167	7,695
+https://en.wikipedia.org/wiki/Sula,_M%C3%B8re_og_Romsdal	Sula	62.424722	6.206111	9,007
+https://en.wikipedia.org/wiki/Giske	Giske	62.562500	6.101944	8,176
+https://en.wikipedia.org/wiki/Vestnes	Vestnes	62.584444	7.018333	6,577
+https://en.wikipedia.org/wiki/Rauma,_Norway	Rauma	62.504722	7.781944	7,503
+https://en.wikipedia.org/wiki/Aukra	Aukra	62.828611	6.845833	3,547
+https://en.wikipedia.org/wiki/Aver%C3%B8y	Averøy	62.997222	7.555278	5,856
+https://en.wikipedia.org/wiki/Gjemnes	Gjemnes	62.916389	7.919167	2,611
+https://en.wikipedia.org/wiki/Tingvoll	Tingvoll	62.953611	8.218056	3,109
+https://en.wikipedia.org/wiki/Sunndal	Sunndal	62.612778	8.634167	7,126
+https://en.wikipedia.org/wiki/Surnadal	Surnadal	62.947500	8.770000	5,986
+https://en.wikipedia.org/wiki/Sm%C3%B8la	Smøla	63.401944	8.029167	2,160
+https://en.wikipedia.org/wiki/Aure,_Norway	Aure	63.268611	8.607778	3,590
+https://en.wikipedia.org/wiki/Volda	Volda	62.087778	6.014167	9,102
+https://en.wikipedia.org/wiki/Fjord_(municipality)	Fjord	62.303611	7.257778	2,642
+https://en.wikipedia.org/wiki/Hustadvika_(municipality)	Hustadvika	62.916667	7.227500	13,215
+https://en.wikipedia.org/wiki/Bod%C3%B8	Bodø	67.282778	14.375000	51,022
+https://en.wikipedia.org/wiki/Narvik	Narvik	68.420556	17.560000	18,756
+https://en.wikipedia.org/wiki/Bindal	Bindal	65.096667	12.588611	1,473
+https://en.wikipedia.org/wiki/S%C3%B8mna	Sømna	65.323611	12.177222	2,047
+https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8y	Brønnøy	65.475833	12.400278	7,956
+https://en.wikipedia.org/wiki/Vega,_Norway	Vega	65.675278	11.957778	1,234
+https://en.wikipedia.org/wiki/Vevelstad	Vevelstad	65.668333	12.518611	528
+https://en.wikipedia.org/wiki/Her%C3%B8y,_Nordland	Herøy	65.998611	12.217222	1,788
+https://en.wikipedia.org/wiki/Alstahaug	Alstahaug	65.956667	12.572778	7,428
+https://en.wikipedia.org/wiki/Leirfjord	Leirfjord	66.112778	13.130833	2,278
+https://en.wikipedia.org/wiki/Vefsn	Vefsn	65.799167	13.250556	13,465
+https://en.wikipedia.org/wiki/Grane,_Nordland	Grane	65.400556	13.510556	1,469
+https://en.wikipedia.org/wiki/Hattfjelldal	Hattfjelldal	65.547500	14.134444	1,414
+https://en.wikipedia.org/wiki/D%C3%B8nna	Dønna	66.091389	12.525833	1,410
+https://en.wikipedia.org/wiki/Nesna	Nesna	66.257778	13.035000	1,837
+https://en.wikipedia.org/wiki/Hemnes	Hemnes	66.054167	14.030556	4,524
+https://en.wikipedia.org/wiki/Rana,_Norway	Rana	66.371944	14.342778	26,101
+https://en.wikipedia.org/wiki/Lur%C3%B8y	Lurøy	66.431944	12.855000	1,920
+https://en.wikipedia.org/wiki/Tr%C3%A6na	Træna	66.507500	12.030833	465
+https://en.wikipedia.org/wiki/R%C3%B8d%C3%B8y	Rødøy	66.593333	13.359444	1,267
+https://en.wikipedia.org/wiki/Mel%C3%B8y	Meløy	66.788056	13.675833	6,435
+https://en.wikipedia.org/wiki/Gildesk%C3%A5l	Gildeskål	67.023333	14.077222	2,024
+https://en.wikipedia.org/wiki/Beiarn	Beiarn	66.917222	14.674722	1,043
+https://en.wikipedia.org/wiki/Saltdal	Saltdal	66.920000	15.560000	4,702
+https://en.wikipedia.org/wiki/Fauske	Fauske	67.220556	15.808611	9,729
+https://en.wikipedia.org/wiki/S%C3%B8rfold	Sørfold	67.220556	15.808611	1,958
+https://en.wikipedia.org/wiki/Steigen	Steigen	67.798333	15.171944	2,543
+https://en.wikipedia.org/wiki/L%C3%B8dingen	Lødingen	68.404167	15.571389	2,134
+https://en.wikipedia.org/wiki/Evenes	Evenes	68.536389	16.931944	1,402
+https://en.wikipedia.org/wiki/R%C3%B8st	Røst	67.520000	12.098889	535
+https://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y	Værøy	67.673056	12.669167	744
+https://en.wikipedia.org/wiki/Flakstad	Flakstad	68.079167	13.274444	1,349
+https://en.wikipedia.org/wiki/Vestv%C3%A5g%C3%B8y	Vestvågøy	68.221389	13.784444	11,294
+https://en.wikipedia.org/wiki/V%C3%A5gan	Vågan	68.278056	14.520833	9,444
+https://en.wikipedia.org/wiki/Hadsel	Hadsel	68.535000	14.825000	8,009
+https://en.wikipedia.org/wiki/B%C3%B8,_Nordland	Bø	68.695278	14.579444	2,624
+https://en.wikipedia.org/wiki/%C3%98ksnes	Øksnes	68.888333	15.183333	4,580
+https://en.wikipedia.org/wiki/Sortland	Sortland	68.708611	15.280833	10,378
+https://en.wikipedia.org/wiki/And%C3%B8y	Andøy	69.094444	15.764444	4,908
+https://en.wikipedia.org/wiki/Moskenes	Moskenes	67.925278	12.958889	1,073
+https://en.wikipedia.org/wiki/Hamar%C3%B8y	Hamarøy	68.075833	15.782222	1,810
+https://en.wikipedia.org/wiki/Halden	Halden	59.126389	11.482778	31,444
+https://en.wikipedia.org/wiki/Moss,_Norway	Moss	59.459167	10.700833	50,290
+https://en.wikipedia.org/wiki/Sarpsborg	Sarpsborg	59.285833	11.111944	58,182
+https://en.wikipedia.org/wiki/Fredrikstad	Fredrikstad	59.205278	10.950000	83,892
+https://en.wikipedia.org/wiki/Drammen	Drammen	59.737778	10.205000	102,449
+https://en.wikipedia.org/wiki/Kongsberg	Kongsberg	59.669444	9.651667	27,879
+https://en.wikipedia.org/wiki/Ringerike_(municipality)	Ringerike	60.205278	10.152500	31 011
+https://en.wikipedia.org/wiki/Hvaler	Hvaler	59.056389	11.022222	4,741
+https://en.wikipedia.org/wiki/Aremark	Aremark	59.223056	11.695556	1 315
+https://en.wikipedia.org/wiki/Marker,_Norway	Marker	59.511111	11.628333	3,578
+https://en.wikipedia.org/wiki/Indre_%C3%98stfold_municipality	Indre	Østfold	59.582222	45,608
+11.170278				3,846
+https://en.wikipedia.org/wiki/Skiptvet	Skiptvet	59.480556	11.144444	8,312
+https://en.wikipedia.org/wiki/Rakkestad	Rakkestad	59.373056	11.420278	7,633
+https://en.wikipedia.org/wiki/R%C3%A5de	Råde	59.348889	10.855000	5,913
+https://en.wikipedia.org/wiki/V%C3%A5ler,_%C3%98stfold	Våler	59.472500	10.916944	18,699
+https://en.wikipedia.org/wiki/Vestby	Vestby	59.575000	10.731944	61,032
+https://en.wikipedia.org/wiki/Nordre_Follo	Nordre	Follo	59.750000	20,780
+10.866667				16,084
+https://en.wikipedia.org/wiki/%C3%85s,_Akershus	Ås	59.660278	10.783611	19,939
+https://en.wikipedia.org/wiki/Frogn	Frogn	59.698889	10.655278	129,073
+https://en.wikipedia.org/wiki/Nesodden	Nesodden	59.808611	10.655556	96,088
+https://en.wikipedia.org/wiki/B%C3%A6rum	Bærum	59.938333	10.506667	17,754
+https://en.wikipedia.org/wiki/Asker	Asker	59.835278	10.435000	19,024
+https://en.wikipedia.org/wiki/Aurskog-H%C3%B8land	Aurskog-Høland	59.840000	11.568333	11,249
+https://en.wikipedia.org/wiki/R%C3%A6lingen	Rælingen	59.889167	11.075278	44,693
+https://en.wikipedia.org/wiki/Enebakk	Enebakk	59.774167	11.101944	89,095
+https://en.wikipedia.org/wiki/L%C3%B8renskog	Lørenskog	59.898889	10.964167	24,947
+https://en.wikipedia.org/wiki/Lillestr%C3%B8m	Lillestrøm	-59.950000	-11.083333	6,989
+https://en.wikipedia.org/wiki/Nittedal	Nittedal	60.073056	10.872222	41,565
+https://en.wikipedia.org/wiki/Gjerdrum	Gjerdrum	60.082500	11.014444	23,898
+https://en.wikipedia.org/wiki/Ullensaker	Ullensaker	60.170833	11.188056	26,716
+https://en.wikipedia.org/wiki/Nes,_Akershus	Nes	60.130833	11.489167	15,074
+https://en.wikipedia.org/wiki/Eidsvoll	Eidsvoll	-60.350000	-11.250000	2,905
+https://en.wikipedia.org/wiki/Nannestad	Nannestad	60.245556	10.952778	6,859
+https://en.wikipedia.org/wiki/Hurdal	Hurdal	60.415833	11.008611	1,057
+https://en.wikipedia.org/wiki/Hole,_Norway	Hole	60.047778	10.291111	3,273
+https://en.wikipedia.org/wiki/Fl%C3%A5	Flå	60.408611	9.484167	4,667
+https://en.wikipedia.org/wiki/Nesbyen_(municipality)	Nesbyen	60.558333	9.101111	2,611
+https://en.wikipedia.org/wiki/Gol,_Norway	Gol	60.750278	8.984722	4,719
+https://en.wikipedia.org/wiki/Hemsedal	Hemsedal	60.905833	8.514722	4,504
+https://en.wikipedia.org/wiki/%C3%85l	Ål	60.630278	8.561111	3,502
+https://en.wikipedia.org/wiki/Hol	Hol	60.571667	8.071667	2 189
+https://en.wikipedia.org/wiki/Sigdal	Sigdal	60.052500	9.601111	14,273
+https://en.wikipedia.org/wiki/Kr%C3%B8dsherad	Krødsherad	60.195000	9.664444	20,044
+https://en.wikipedia.org/wiki/Modum	Modum	59.957500	9.982778	27,584
+https://en.wikipedia.org/wiki/%C3%98vre_Eiker	Øvre	Eiker	59.771944	2,720
+9.836111				1,370
+https://en.wikipedia.org/wiki/Lier,_Norway	Lier	59.793889	10.266111	2,455
+https://en.wikipedia.org/wiki/Flesberg	Flesberg	59.847778	9.482222	6,908
+https://en.wikipedia.org/wiki/Rollag	Rollag	60.017222	9.233889	9,144
+https://en.wikipedia.org/wiki/Nore_og_Uvdal	Nore	og	Uvdal	17,857
+60.307222	8.805556			30,598
+https://en.wikipedia.org/wiki/Jevnaker	Jevnaker	60.271111	10.401944	27,781
+https://en.wikipedia.org/wiki/Lunner	Lunner	60.252778	10.667222	30,319
+https://en.wikipedia.org/wiki/Kongsvinger	Kongsvinger	60.243056	12.225556	33,842
+https://en.wikipedia.org/wiki/Hamar_Municipality	Hamar	60.799167	11.056111	7,633
+https://en.wikipedia.org/wiki/Lillehammer	Lillehammer	-61.116667	-10.466667	20,317
+https://en.wikipedia.org/wiki/Gj%C3%B8vik	Gjøvik	60.792500	10.695000	5,100
+https://en.wikipedia.org/wiki/Ringsaker	Ringsaker	61.024167	10.801944	7,866
+https://en.wikipedia.org/wiki/L%C3%B8ten	Løten	60.825278	11.390833	6,127
+https://en.wikipedia.org/wiki/Stange	Stange	60.715833	11.190278	4,777
+https://en.wikipedia.org/wiki/Nord-Odal	Nord-Odal	60.442222	11.568056	7,329
+https://en.wikipedia.org/wiki/S%C3%B8r-Odal	Sør-Odal	60.236667	11.745556	3,743
+https://en.wikipedia.org/wiki/Eidskog	Eidskog	59.998056	12.060556	21,086
+https://en.wikipedia.org/wiki/Grue,_Norway	Grue	60.456389	12.058333	6,550
+https://en.wikipedia.org/wiki/%C3%85snes	Åsnes	60.653611	12.153056	4,518
+https://en.wikipedia.org/wiki/V%C3%A5ler,_Hedmark	Våler	60.753333	11.897500	2,530
+https://en.wikipedia.org/wiki/Elverum	Elverum	60.927500	11.715278	1,858
+https://en.wikipedia.org/wiki/Trysil	Trysil	61.310000	12.315000	1,274
+https://en.wikipedia.org/wiki/%C3%85mot	Åmot	61.146389	11.415833	1,620
+https://en.wikipedia.org/wiki/Stor-Elvdal	Stor-Elvdal	61.635000	10.874167	5,584
+https://en.wikipedia.org/wiki/Rendalen	Rendalen	61.859444	11.176111	2,441
+https://en.wikipedia.org/wiki/Engerdal	Engerdal	-61.883333	-12.033333	1,577
+https://en.wikipedia.org/wiki/Tolga,_Norway	Tolga	62.401389	11.022222	1,963
+https://en.wikipedia.org/wiki/Tynset	Tynset	62.275278	10.832500	2,675
+https://en.wikipedia.org/wiki/Alvdal	Alvdal	62.071667	10.507500	2,048
+https://en.wikipedia.org/wiki/Folldal	Folldal	62.199167	10.035278	2,202
+https://en.wikipedia.org/wiki/Os,_Innlandet	Os	62.476111	11.243056	2,360
+https://en.wikipedia.org/wiki/Dovre	Dovre	62.035000	9.467500	3,640
+https://en.wikipedia.org/wiki/Lesja	Lesja	62.210556	8.644722	5,723
+https://en.wikipedia.org/wiki/Skj%C3%A5k	Skjåk	61.936111	7.960278	5,916
+https://en.wikipedia.org/wiki/Lom,_Norway	Lom	61.810833	8.639167	3,163
+https://en.wikipedia.org/wiki/V%C3%A5g%C3%A5	Vågå	61.848611	9.121111	4,502
+https://en.wikipedia.org/wiki/Nord-Fron	Nord-Fron	61.658889	9.727778	5,082
+https://en.wikipedia.org/wiki/Sel	Sel	61.816944	9.573333	6,204
+https://en.wikipedia.org/wiki/S%C3%B8r-Fron	Sør-Fron	61.568889	9.923333	14,887
+https://en.wikipedia.org/wiki/Ringebu	Ringebu	61.535556	10.308056	13,179
+https://en.wikipedia.org/wiki/%C3%98yer	Øyer	61.265278	10.413333	13,707
+https://en.wikipedia.org/wiki/Gausdal	Gausdal	61.276667	9.922500	5,717
+https://en.wikipedia.org/wiki/%C3%98stre_Toten	Østre	Toten	60.613333	6,773
+10.916111				3,026
+https://en.wikipedia.org/wiki/Vestre_Toten	Vestre	Toten	60.652778	1,351
+10.596111				6,490
+https://en.wikipedia.org/wiki/Gran,_Norway	Gran	60.441111	10.495556	2,114
+https://en.wikipedia.org/wiki/S%C3%B8ndre_Land	Søndre	Land	60.676944	3,248
+10.278889				1,596
+https://en.wikipedia.org/wiki/Nordre_Land	Nordre	Land	60.931944	27,202
+10.017222				14,037
+https://en.wikipedia.org/wiki/S%C3%B8r-Aurdal	Sør-Aurdal	60.696389	9.658889	44,922
+https://en.wikipedia.org/wiki/Etnedal	Etnedal	60.967222	9.653611	62,019
+https://en.wikipedia.org/wiki/Nord-Aurdal	Nord-Aurdal	60.959722	9.264167	46,557
+https://en.wikipedia.org/wiki/Vestre_Slidre	Vestre	Slidre	61.060556	36,198
+8.917222				54,316
+https://en.wikipedia.org/wiki/%C3%98ystre_Slidre	Øystre	Slidre	61.236389	12,757
+9.143611				26,676
+https://en.wikipedia.org/wiki/Vang,_Innlandet	Vang	61.214444	8.504167	2,357
+https://en.wikipedia.org/wiki/Horten	Horten	59.420833	10.432778	14,138
+https://en.wikipedia.org/wiki/Holmestrand	Holmestrand	59.495278	10.248611	10,586
+https://en.wikipedia.org/wiki/T%C3%B8nsberg	Tønsberg	59.298056	10.423611	4,148
+https://en.wikipedia.org/wiki/Sandefjord	Sandefjord	59.130556	10.216667	6,585
+https://en.wikipedia.org/wiki/Larvik	Larvik	59.081111	10.016389	10,439
+https://en.wikipedia.org/wiki/Porsgrunn	Porsgrunn	59.115556	9.710000	5,894
+https://en.wikipedia.org/wiki/Skien	Skien	59.208056	9.552778	1,593
+https://en.wikipedia.org/wiki/Notodden	Notodden	59.629444	9.191389	2,979
+https://en.wikipedia.org/wiki/F%C3%A6rder	Færder	-59.166667	-10.400000	2,442
+https://en.wikipedia.org/wiki/Siljan,_Norway	Siljan	59.297500	9.706389	1,476
+https://en.wikipedia.org/wiki/Bamble	Bamble	59.019722	9.560833	1,319
+https://en.wikipedia.org/wiki/Krager%C3%B8	Kragerø	58.886944	9.346944	2,228
+https://en.wikipedia.org/wiki/Drangedal	Drangedal	59.123333	8.981944	3,726
+https://en.wikipedia.org/wiki/Nome,_Norway	Nome	59.284722	9.123889	6,935
+https://en.wikipedia.org/wiki/Midt-Telemark_(municipality)	Midt-Telemark	59.450000	9.100000	22,692
+https://en.wikipedia.org/wiki/Tinn	Tinn	60.009167	8.559444	44,576
+https://en.wikipedia.org/wiki/Hjartdal	Hjartdal	59.665000	8.726111	113,920
+https://en.wikipedia.org/wiki/Seljord	Seljord	59.513333	8.648889	23,025
+https://en.wikipedia.org/wiki/Kviteseid	Kviteseid	59.398333	8.495000	9,769
+https://en.wikipedia.org/wiki/Nissedal	Nissedal	59.076389	8.518333	9,090
+https://en.wikipedia.org/wiki/Fyresdal	Fyresdal	59.165833	8.019722	2,511
+https://en.wikipedia.org/wiki/Tokke	Tokke	59.417222	7.978611	2,104
+https://en.wikipedia.org/wiki/Vinje	Vinje	59.801389	7.779167	6,051
+https://en.wikipedia.org/wiki/Ris%C3%B8r	Risør	58.726389	9.194444	5,713
+https://en.wikipedia.org/wiki/Grimstad	Grimstad	58.351944	8.544444	10,702
+https://en.wikipedia.org/wiki/Arendal	Arendal	58.460833	8.766389	5,178
+https://en.wikipedia.org/wiki/Kristiansand	Kristiansand	58.147222	7.997222	1,856
+https://en.wikipedia.org/wiki/Lindesnes	Lindesnes	58.104167	7.288889	1,342
+https://en.wikipedia.org/wiki/Farsund	Farsund	58.082778	6.752778	3,614
+https://en.wikipedia.org/wiki/Flekkefjord	Flekkefjord	58.327222	6.666667	1,200
+https://en.wikipedia.org/wiki/Gjerstad	Gjerstad	58.892500	8.956667	1,246
+https://en.wikipedia.org/wiki/Veg%C3%A5rshei	Vegårshei	58.775556	8.832222	952
+https://en.wikipedia.org/wiki/Tvedestrand	Tvedestrand	58.623889	8.927778	14,425
+https://en.wikipedia.org/wiki/Froland	Froland	58.583056	8.572222	937
+https://en.wikipedia.org/wiki/Lillesand	Lillesand	58.246944	8.316944	10,368
+https://en.wikipedia.org/wiki/Birkenes	Birkenes	58.449444	8.233333	1,702
+https://en.wikipedia.org/wiki/%C3%85mli	Åmli	58.798056	8.369167	5,988
+https://en.wikipedia.org/wiki/Iveland	Iveland	58.441111	7.955833	1,836
+https://en.wikipedia.org/wiki/Evje_og_Hornnes	Evje	og	Hornnes	287,428
+58.584722	7.770556			17,131
+https://en.wikipedia.org/wiki/Bygland	Bygland	58.924167	7.764722	4,043
+https://en.wikipedia.org/wiki/Valle,_Norway	Valle	59.212500	7.535833	5,775
+https://en.wikipedia.org/wiki/Bykle	Bykle	59.443056	7.255000	12,061
+https://en.wikipedia.org/wiki/Vennesla	Vennesla	58.310556	7.856944	18,919
+https://en.wikipedia.org/wiki/%C3%85seral	Åseral	58.701944	7.393611	3,117
+https://en.wikipedia.org/wiki/Lyngdal	Lyngdal	58.169167	7.055833	2,883
+https://en.wikipedia.org/wiki/H%C3%A6gebostad	Hægebostad	58.456667	7.219722	13,017
+https://en.wikipedia.org/wiki/Kvinesdal	Kvinesdal	58.338056	7.023056	10,881
+https://en.wikipedia.org/wiki/Sirdal	Sirdal	58.861944	6.813333	937
+https://en.wikipedia.org/wiki/Bergen	Bergen	60.389444	5.330000	1,051
+https://en.wikipedia.org/wiki/Kinn	Kinn	61.599722	5.032778	15,875
+https://en.wikipedia.org/wiki/Etne	Etne	59.663889	5.933333	8,497
+https://en.wikipedia.org/wiki/Sveio	Sveio	59.573611	5.363333	2,501
+https://en.wikipedia.org/wiki/B%C3%B8mlo	Bømlo	59.779444	5.218333	25,213
+https://en.wikipedia.org/wiki/Stord	Stord	59.808056	5.466389	5,282
+https://en.wikipedia.org/wiki/Fitjar	Fitjar	59.918889	5.371389	39,032
+https://en.wikipedia.org/wiki/Tysnes	Tysnes	59.998333	5.577222	29,032
+https://en.wikipedia.org/wiki/Kvinnherad	Kvinnherad	59.928056	6.036944	3,867
+https://en.wikipedia.org/wiki/Ullensvang	Ullensvang	60.311667	6.814722	378
+https://en.wikipedia.org/wiki/Eidfjord	Eidfjord	60.435000	7.277222	8,131
+https://en.wikipedia.org/wiki/Ulvik	Ulvik	60.621111	7.080278	29,816
+https://en.wikipedia.org/wiki/Voss	Voss	60.702500	6.423056	2,889
+https://en.wikipedia.org/wiki/Kvam	Kvam	60.370000	6.143889	502
+https://en.wikipedia.org/wiki/Samnanger	Samnanger	60.402778	5.805556	1,629
+https://en.wikipedia.org/wiki/Bj%C3%B8rnafjorden_(municipality)	Bjørnafjorden	60.195556	5.622222	2,230
+https://en.wikipedia.org/wiki/Austevoll	Austevoll	60.037778	5.268333	768
+https://en.wikipedia.org/wiki/%C3%98ygarden	Øygarden	60.610833	4.824722	1,290
+https://en.wikipedia.org/wiki/Ask%C3%B8y	Askøy	60.471389	5.160556	3,965
+https://en.wikipedia.org/wiki/Vaksdal	Vaksdal	60.606944	5.816111	2,560
+https://en.wikipedia.org/wiki/Modalen	Modalen	60.880556	5.925278	12,097
+https://en.wikipedia.org/wiki/Oster%C3%B8y	Osterøy	60.518056	5.541389	1,766
+https://en.wikipedia.org/wiki/Alver_(municipality)	Alver	60.666667	5.333333	2,117
+https://en.wikipedia.org/wiki/Austrheim	Austrheim	60.771111	4.926111	5,204
+https://en.wikipedia.org/wiki/Fedje	Fedje	60.768889	4.730556	5,246
+https://en.wikipedia.org/wiki/Masfjorden	Masfjorden	60.838333	5.448611	2,951
+https://en.wikipedia.org/wiki/Gulen	Gulen	61.024167	5.119444	2,901
+https://en.wikipedia.org/wiki/Solund	Solund	61.130833	4.947778	22,116
+https://en.wikipedia.org/wiki/Hyllestad	Hyllestad	61.170833	5.293056	3,521
+https://en.wikipedia.org/wiki/H%C3%B8yanger	Høyanger	61.188056	5.895556	9,527
+https://en.wikipedia.org/wiki/Vik	Vik	61.056944	6.578056	5,875
+https://en.wikipedia.org/wiki/Sogndal	Sogndal	61.242222	7.055000	7,207
+https://en.wikipedia.org/wiki/Aurland	Aurland	60.868056	7.243333	211,246
+https://en.wikipedia.org/wiki/L%C3%A6rdal	Lærdal	61.051111	7.597778	24,357
+https://en.wikipedia.org/wiki/%C3%85rdal	Årdal	61.291389	7.798056	13,051
+https://en.wikipedia.org/wiki/Luster,_Norway	Luster	61.493889	7.329444	4,937
+https://en.wikipedia.org/wiki/Askvoll	Askvoll	61.405833	5.242222	978
+https://en.wikipedia.org/wiki/Fjaler	Fjaler	61.306111	5.463333	6,973
+https://en.wikipedia.org/wiki/Sunnfjord_(municipality)	Sunnfjord	61.452222	5.857222	2,556
+https://en.wikipedia.org/wiki/Bremanger	Bremanger	61.808611	5.420833	5,623
+https://en.wikipedia.org/wiki/Stad,_Norway	Stad	61.911389	6.037222	2,046
+https://en.wikipedia.org/wiki/Gloppen	Gloppen	61.743889	6.170556	6,319
+https://en.wikipedia.org/wiki/Stryn	Stryn	61.838611	6.862778	16,213
+https://en.wikipedia.org/wiki/Trondheim	Trondheim	63.429722	10.393333	8,000
+https://en.wikipedia.org/wiki/Steinkjer	Steinkjer	64.058056	11.718889	13,820
+https://en.wikipedia.org/wiki/Namsos	Namsos	64.493889	11.511667	4,098
+https://en.wikipedia.org/wiki/Fr%C3%B8ya,_Tr%C3%B8ndelag	Frøya	63.725556	8.744167	861
+https://en.wikipedia.org/wiki/Osen	Osen	64.297778	10.513333	2,508
+https://en.wikipedia.org/wiki/Oppdal	Oppdal	62.573611	9.608889	23,625
+https://en.wikipedia.org/wiki/Rennebu	Rennebu	62.830833	9.874444	2,630
+https://en.wikipedia.org/wiki/R%C3%B8ros	Røros	62.574167	11.383056	19,892
+https://en.wikipedia.org/wiki/Holt%C3%A5len	Holtålen	62.868611	11.277222	14,849
+https://en.wikipedia.org/wiki/Midtre_Gauldal	Midtre	Gauldal	62.921111	2,159
+10.500556				1,389
+https://en.wikipedia.org/wiki/Melhus	Melhus	63.176389	10.303611	469
+https://en.wikipedia.org/wiki/Skaun	Skaun	63.281389	10.055278	872
+https://en.wikipedia.org/wiki/Malvik	Malvik	63.372778	10.750833	2,467
+https://en.wikipedia.org/wiki/Selbu	Selbu	63.198333	11.140278	1,264
+https://en.wikipedia.org/wiki/Tydal	Tydal	63.018333	11.815000	3,840
+https://en.wikipedia.org/wiki/Mer%C3%A5ker	Meråker	63.438056	11.849444	1,090
+https://en.wikipedia.org/wiki/Stj%C3%B8rdal	Stjørdal	63.475000	11.170833	584
+https://en.wikipedia.org/wiki/Frosta	Frosta	63.603889	10.774444	6,800
+https://en.wikipedia.org/wiki/Levanger	Levanger	63.654722	11.260278	10,108
+https://en.wikipedia.org/wiki/Verdal	Verdal	63.798056	11.949167	5,963
+https://en.wikipedia.org/wiki/Sn%C3%A5sa	Snåsa	64.224444	12.625278	4,659
+https://en.wikipedia.org/wiki/Lierne	Lierne	64.376111	13.609722	5,291
+https://en.wikipedia.org/wiki/R%C3%B8yrvik	Røyrvik	64.920833	13.650833	3,263
+https://en.wikipedia.org/wiki/Namsskogan	Namsskogan	64.871944	12.976389	11,891
+https://en.wikipedia.org/wiki/Grong	Grong	64.531389	12.620000	9,623
+https://en.wikipedia.org/wiki/H%C3%B8ylandet	Høylandet	64.724167	12.333889	2,026
+https://en.wikipedia.org/wiki/Overhalla	Overhalla	64.507778	11.893889	74,541
+https://en.wikipedia.org/wiki/Flatanger	Flatanger	64.419722	10.907778	24,845
+https://en.wikipedia.org/wiki/Leka,_Norway	Leka	65.088056	11.616944	20,446
+https://en.wikipedia.org/wiki/Inder%C3%B8y	Inderøy	63.899444	11.220000	2,104
+https://en.wikipedia.org/wiki/Indre_Fosen	Indre	Fosen	63.643889	6,154
+10.186944				10,527
+https://en.wikipedia.org/wiki/Heim,_Norway	Heim	63.290556	9.089167	2,986
+https://en.wikipedia.org/wiki/Hitra	Hitra	63.547222	8.854722	4,243
+https://en.wikipedia.org/wiki/%C3%98rland	Ørland	-63.783333	-9.800000	1,394
+https://en.wikipedia.org/wiki/%C3%85fjord	Åfjord	63.977778	10.385556	1,121
+https://en.wikipedia.org/wiki/Orkland	Orkland	63.306667	9.850278	1,076
+https://en.wikipedia.org/wiki/N%C3%A6r%C3%B8ysund	Nærøysund	64.839167	11.460833	3,994
+https://en.wikipedia.org/wiki/Rindal	Rindal	63.042222	9.289444	2,220
+https://en.wikipedia.org/wiki/Troms%C3%B8	Tromsø	69.682778	18.942778	6,781
+https://en.wikipedia.org/wiki/Harstad	Harstad	68.800000	16.545833	3,496
+https://en.wikipedia.org/wiki/Alta,_Norway	Alta	69.976667	23.295833	1,138
+https://en.wikipedia.org/wiki/Vard%C3%B8	Vardø	70.370556	31.024167	14,930
+https://en.wikipedia.org/wiki/Vads%C3%B8	Vadsø	70.073333	29.749722	5,685
+https://en.wikipedia.org/wiki/Hammerfest	Hammerfest	70.662500	23.683333	2,273
+https://en.wikipedia.org/wiki/Kv%C3%A6fjord	Kvæfjord	68.701944	16.146944	2,876
+https://en.wikipedia.org/wiki/Tjeldsund	Tjeldsund	68.484444	16.292500	1,890
+https://en.wikipedia.org/wiki/Ibestad	Ibestad	68.829444	17.245833	2,132
+https://en.wikipedia.org/wiki/Gratangen	Gratangen	68.690000	17.541667	2,912
+https://en.wikipedia.org/wiki/Lavangen	Lavangen	68.657778	17.583611	4,919
+https://en.wikipedia.org/wiki/Bardu	Bardu	68.864167	18.352778	1,233
+https://en.wikipedia.org/wiki/Salangen	Salangen	68.900556	17.893056	2,938
+https://en.wikipedia.org/wiki/M%C3%A5lselv	Målselv	68.975000	19.064444	968
+https://en.wikipedia.org/wiki/S%C3%B8rreisa	Sørreisa	69.091944	18.193611	1,037
+https://en.wikipedia.org/wiki/Dyr%C3%B8y	Dyrøy	69.066944	17.741389	1,204
+https://en.wikipedia.org/wiki/Senja_(municipality)	Senja	69.080556	16.803056	3,276
+https://en.wikipedia.org/wiki/Balsfjord	Balsfjord	69.304722	19.203611	3,971
+https://en.wikipedia.org/wiki/Karls%C3%B8y	Karlsøy	70.130000	19.430833	2,696
+https://en.wikipedia.org/wiki/Lyngen	Lyngen	69.690278	20.081667	1,330
+https://en.wikipedia.org/wiki/Storfjord	Storfjord	69.278611	20.286667	1,137
+https://en.wikipedia.org/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono	Kåfjord	69.603889	20.532500	991
+https://en.wikipedia.org/wiki/Skjerv%C3%B8y	Skjervøy	70.085278	20.659444	2,911
+https://en.wikipedia.org/wiki/Nordreisa	Nordreisa	69.705000	21.209167	951
+https://en.wikipedia.org/wiki/Kv%C3%A6nangen	Kvænangen	69.894167	21.980278	2,267
+https://en.wikipedia.org/wiki/Kautokeino	Kautokeino	69.011667	23.043333	10,199
+https://en.wikipedia.org/wiki/Loppa	Loppa	70.239444	22.348611	
+https://en.wikipedia.org/wiki/Hasvik	Hasvik	70.591667	22.302778	
+https://en.wikipedia.org/wiki/M%C3%A5s%C3%B8y	Måsøy	70.996667	24.661389	
+https://en.wikipedia.org/wiki/Nordkapp	Nordkapp	70.978056	25.974722	
+https://en.wikipedia.org/wiki/Porsanger	Porsanger	70.052222	24.955833	
+https://en.wikipedia.org/wiki/Karasjok	Karasjok	69.481944	25.105000	
+https://en.wikipedia.org/wiki/Lebesby	Lebesby	70.945278	27.351111	
+https://en.wikipedia.org/wiki/Gamvik	Gamvik	71.041111	27.851389	
+https://en.wikipedia.org/wiki/Berlev%C3%A5g	Berlevåg	70.858056	29.085000	
+https://en.wikipedia.org/wiki/Tana,_Norway	Tana	70.199444	28.185833	
+https://en.wikipedia.org/wiki/Nesseby	Nesseby	70.173333	28.553611	
+https://en.wikipedia.org/wiki/B%C3%A5tsfjord	Båtsfjord	70.635278	29.720833	
+https://en.wikipedia.org/wiki/S%C3%B8r-Varanger	Sør-Varanger	69.728611	30.041667	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
