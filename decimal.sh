@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#Converts degree type coordinates to decimal coordinates
+#12:
+#The 'decimalyo' function use 'awk' to convert degree, minute, second coordinates from input stream to decimal degrees, considering directional indicators. It splits input lines to arrays, determines the direction, and calculates the decimal value, providing a convenient conversion for geographic coordinates.
 function decimalyo(){
     while read -r deg; do
         awk '
